@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">RecyclerView_Tsakaev</string>
+    <string name="student">Student</string>
+    <string name="uneversity">Uneversity</string>
+    <string name="group">Group</string>
+    <string name="todo">TODO</string>
+
+    <string-array name="students">
+        <item>Popov Danil</item>
+        <item>Burnashe Veniamib</item>
+        <item>Burnashev David</item>
+        <item>Shibru David</item>
+        <item>Abdyraimova Aisulu</item>
+        <item>Tsakaev Ahmad</item>
+        <item>Penkin Sergey</item>
+        <item>Tuleev Marat</item>
+        <item>Bekturganov Aidin</item>
+        <item>Islamov ismail</item>
+        <item>Mambetaliev Azamat</item>
+        <item>Serpantin Volodia</item>
+        <item>Nikitina Masha</item>
+        <item>Kozhokadyrov Zhamil</item>
+        <item>Alieva Aidana</item>
+        <item>Samsaliev Azim</item>
+        <item>Omurbaev Kylim</item>
+        <item>Muhatova Rita</item>
+        <item>Materkin Vadim</item>
+        <item>Inalova Alina</item>
+        <item>Abdiraliev Sultan</item>
+    </string-array>
+
+    <string-array name="group">
+        <item>IT-112</item>
+        <item>IT-118</item>
+        <item>IT-118</item>
+        <item>IT-118</item>
+        <item>IT-118</item>
+        <item>IT-118</item>
+        <item>IT-119</item>
+        <item>IT-117</item>
+        <item>IT-118</item>
+        <item>IT-115</item>
+        <item>IT-116</item>
+        <item>IT-118</item>
+        <item>IT-119</item>
+        <item>IT-117</item>
+        <item>IT-118</item>
+        <item>IT-118</item>
+        <item>IT-118</item>
+        <item>IT-118</item>
+        <item>IT-119</item>
+        <item>IT-118</item>
+        <item>IT-119</item>
+    </string-array>
+
+    <string-array name="uneversity">
+        <item>IUCA</item>
+        <item>IUCA</item>
+        <item>IUCA</item>
+        <item>IUCA</item>
+        <item>IUCA</item>
+        <item>IUCA</item>
+        <item>IUCA</item>
+        <item>IUCA</item>
+        <item>IUCA</item>
+        <item>IUCA</item>
+        <item>IUCA</item>
+        <item>IUCA</item>
+        <item>IUCA</item>
+        <item>IUCA</item>
+        <item>IUCA</item>
+        <item>IUCA</item>
+        <item>IUCA</item>
+        <item>IUCA</item>
+        <item>IUCA</item>
+        <item>IUCA</item>
+        <item>IUCA</item>
+    </string-array>
+</resources>
